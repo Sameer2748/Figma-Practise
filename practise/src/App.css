@@ -1,0 +1,13 @@
+.hero{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url("https://s3-alpha-sig.figma.com/img/c3c9/7679/51c51a7e2807a7d0fadb9f1c2a8b1ef6?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LyCbEyJvgd-HdCZ1-qLI66v8ZgHvaL~yK2h6vDMjxqKQY5Wk3BOACYzZ8wmidRvzKhSeG17J1Mph2fwCGoq48jyttOJg-aaA3w~ytvHf8MLHoOB7j4gUiy~rFGPMcWK2yIU7QF~dFFWPux3xNmlMVh2CQ5rzIY~oeiwpXbrVT1JifXqwsEjaglanKe85JidnGsK5o0xQ9HEGy3-Z09Lti8MMrcwbkjAG99VsujT4uKzmpqBjuyTHDquZXqQwZ0ONbgGYe-BLQFF2kiaKue1wI015P1c8ZjqsNjx-73IGd~gSiSbibhzh8UgbEDWNduqPwL2ttJIeIr2UPNTIR8SuaA__");
+    background-size: cover; /* Adjust as needed */
+    background-position: center;
+}
+.footer{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),url("https://s3-alpha-sig.figma.com/img/2da7/dc5b/62e47d4ba6308cc4a1c5c2d5a9ad2351?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OPJF811HOcl2htBqMEpjiWq9u~EZ4ToI2DGMKZfwKBlx3TzrTGzfXy9FM5CRcZ3dwxk37Q2BSne6J1oPua7RhCC7uxpK1EzGISj1d0~6dO8ov07NGc46ijRbx2URPPFNnqS9xxcEeVGLSdhPYZNvF9TXbBbFcusiDKHcO7lBXUleIoMGmidWNn~oDNEMz9SvAh5AL02fvMtRTUrMY2ZpnL09c~T7rFzMNNpAayOdGFP5-RahxPf6nUmKbCUuOlbKhad4s1gXrpmA0QHL~v~6dWsh8LW5yfqgjMJ2DAHSncpj1Q4qRKAJtNJTmhoUEXIQQzSebZ~1mCYCjCh4yZFt7w__");
+    background-size: cover; /* Adjust as needed */
+    background-position: center;
+}
+
